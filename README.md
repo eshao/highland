@@ -4,8 +4,9 @@ The high-level streams library for Node.js and the browser.
 View the [Highland website](http://highlandjs.org) for more in-depth
 documentation.
 
-[![browser support](https://ci.testling.com/eshao/highland.png)
-](https://ci.testling.com/eshao/highland)
+[![browser support](https://ci.testling.com/eshao/highland.png)](https://ci.testling.com/eshao/highland)
+
+[![build status](https://secure.travis-ci.org/eshao/highland.png)](http://travis-ci.org/eshao/highland)
 
 ## Introduction
 
